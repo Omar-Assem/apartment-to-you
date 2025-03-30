@@ -1,0 +1,1039 @@
+[
+  {
+    "id": 1,
+    "name": "Entire rental unit in New Cairo",
+
+    "img": [
+      "New Cairo/054c323c-0b32-4e25-8bf8-b608a04a3627.avif",
+      "New Cairo/2d68bdda-9a79-4904-9da3-c9caba448884.avif",
+      "New Cairo/39d45a49-b3a2-46bf-a76e-180772c1632f.avif",
+      "New Cairo/71a1b715-ab55-4125-97ee-4b70c4d11ada.avif",
+      "New Cairo/a521af3d-9cda-4959-9286-44056ca731cd.avif"
+    ],
+    "city": "Cairo",
+    "price": 4726,
+    "area": {
+      "bedrooms": 1,
+      "guests": 3,
+      "beds": 2,
+      "bathrooms": 1
+    },
+    "stars": 4.94,
+    "review": 137,
+    "host": {
+      "name": "Candice",
+      "profileImage": "",
+      "since": "2021"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Entire rental unit",
+
+    "img": [
+      "Giza/Entire rental unit/2f422229-6ef0-4f86-948d-ef193b150249.avif",
+      "Giza/Entire rental unit/32985886-b1ef-4ff8-bf2b-5f36d595e4ec.avif",
+      "Giza/Entire rental unit/4e60340c-4db5-4b49-b295-8f214bcb7624.avif",
+      "Giza/Entire rental unit/6205afaa-d0ed-48fb-8da0-563e283550af.avif",
+      "Giza/Entire rental unit/729e2b67-093d-454a-805c-353bc1056243.avif",
+      "Giza/Entire rental unit/8e0e3dc3-7387-478e-98d4-3f9ecf57ac5f.avif",
+      "Giza/Entire rental unit/b6ca910f-6d15-469a-90ee-464a80434339.avif",
+      "Giza/Entire rental unit/f75afc0d-1ca5-45f2-acb1-0354372abea7.avif"
+    ],
+    "city": "Giza",
+    "price": 3450,
+    "stars": 4.76,
+    "review": 112,
+    "host": {
+      "name": "Ali Hassan",
+      "profileImage": "",
+      "since": "2019"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Entire rental unit in Cairo",
+
+    "img": [
+      "Giza/Entire rental unit in Cairo, Egypt/59757cc2-00d3-4a64-8472-59b0ce049410.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/6973cbad-d51f-41ef-88a5-ee189806b2e3.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/a3e53388-1fc2-4039-87d9-38251ee96421.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/abc630ee-ffda-481f-b7cb-608aea8a2c32.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/ae27c5ad-a844-47b0-9731-a64dedb7f0c7.webp",
+      "Giza/Entire rental unit in Cairo, Egypt/b0c1c6f9-4555-4166-a05f-b4f4abca170c.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/c1d0fb95-9dea-45f9-bbbe-32bdd3cf5286.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/c9b40532-1cbd-425d-84de-c38fe958eead.avif",
+      "Giza/Entire rental unit in Cairo, Egypt/c9b40532-1cbd-425d-84de-c38fe958eead.webp",
+      "Giza/Entire rental unit in Cairo, Egypt/ce1b91c1-ddf1-4a2c-af7c-67cf9767c944.avif"
+    ],
+    "city": "Giza",
+    "price": 5300,
+    "stars": 4.94,
+    "review": 210,
+    "host": {
+      "name": "Mariam Adel",
+      "profileImage": "",
+      "since": "2023"
+    },
+
+    "comments": [
+      {
+        "user": "James",
+        "profileImage": "",
+        "date": "January 15, 2025",
+        "rating": 5,
+        "comment": "Perfect spot, super clean and cozy! The host was very friendly."
+      },
+      {
+        "user": "Sophia",
+        "profileImage": "",
+        "date": "February 4, 2025",
+        "rating": 4,
+        "comment": "Amazing pool and quiet location. Definitely recommend."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Entire rental unit in Kafr Nassar",
+
+    "img": [
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/0b963800-7955-4bd5-bb3d-5f51f68ae1e1.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/136dd757-8b4a-4a43-814f-a73a15fb8bc5.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/36fe4343-dfe4-44d2-8865-e6e4b332cdeb.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/39b2fd91-5d5b-47c3-9323-c9db5fbdc37b.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/3f73dd86-4aea-4caf-afa5-eefaa3e2b2e3.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/66ed660d-9c39-4275-b234-a085e55a9351.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/77fc0b67-d3fb-450d-93ac-92a3fa18aa59.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/99b84ca9-bbc8-4f34-bd42-a45796319868.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/b2902c15-fde2-404a-a67b-f2ac104cba86.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/b61cb375-e88d-48d1-b297-40b8dd62ddfb.avif",
+      "Giza/Entire rental unit in Kafr Nassar, Egypt/fc48580f-64e4-4a70-8603-2d28da55bc04.avif"
+    ],
+    "city": "Giza",
+    "price": 3225,
+    "stars": 4.72,
+    "review": 104,
+    "host": { "name": "Lillian Hall", "profileImage": "", "since": "2023" }
+  },
+  {
+    "id": 5,
+    "name": "Entire rental unit in Nazlet",
+
+    "img": [
+      "Giza/Entire rental unit in Nazlet/0638f39d-deef-4cf7-b168-47b22762d12c.avif",
+      "Giza/Entire rental unit in Nazlet/26b5de44-8d11-46d6-af82-a926664a64dd.avif",
+      "Giza/Entire rental unit in Nazlet/2aafbfbf-fd02-4ebc-b589-da6dbf6fd2d9.avif",
+      "Giza/Entire rental unit in Nazlet/31849160-f66a-4a3d-a2d2-c460d87cc034.avif",
+      "Giza/Entire rental unit in Nazlet/429afbaf-5bcb-4fff-900b-3f2c6051d3d9.avif",
+      "Giza/Entire rental unit in Nazlet/4af670ff-fcf1-46f8-aec7-98e672ef3dfc.avif",
+      "Giza/Entire rental unit in Nazlet/86ec73af-c1dd-455d-869c-76f81e873fc8.avif",
+      "Giza/Entire rental unit in Nazlet/8dc11f17-e010-4475-a288-d1e54fa553c1.avif",
+      "Giza/Entire rental unit in Nazlet/ad309a37-73af-4234-8de2-4a91888a3a54.avif",
+      "Giza/Entire rental unit in Nazlet/b6f627a7-3240-46bb-810d-23330bb30b52.avif",
+      "Giza/Entire rental unit in Nazlet/bcea6539-b1be-4c44-9cc7-f513aef3f197.avif",
+      "Giza/Entire rental unit in Nazlet/d3a4d4fe-7364-4481-84c2-0557bf887f94.avif"
+    ],
+    "city": "Giza",
+    "price": 4750,
+    "stars": 4.88,
+    "review": 183,
+    "host": { "name": "Sophia Miller", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 6,
+    "name": "Entire rental unit in Nazlet El-Semman",
+
+    "img": [
+      "Giza/Entire rental unit in Nazlet El-Semman,/1b187dde-69e2-42bf-9409-4726adc35f0f.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman,/6060c923-2bdb-42e0-a893-e3043f808fb2.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman,/6516f1a4-5db4-4638-b2e4-2b98716318d9.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman,/7c612c68-0197-4b86-9d8c-0b30aa70a57a.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman,/b4003ca5-ff2a-4401-8793-0b32c869acbd.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman,/baa1db24-e25d-4fe0-9e9a-ddc72fce54ec.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman,/c7fd6182-661e-439c-87d5-197dc5675710.avif"
+    ],
+    "city": "Giza",
+    "price": 3050,
+    "stars": 4.71,
+    "review": 97,
+    "host": { "name": "Evelyn Jackson", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 7,
+    "name": "Entire rental unit in Nazlet El-Semman, Egypt",
+
+    "img": [
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/03cd303f-35a2-4a92-9f05-49adc322e1d8.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/0bba1701-3c9e-48a8-b982-6bd7008b3395.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/1e623e18-1f5c-4f9a-90dd-f2cda068d015.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/1f5d38d2-5aeb-4612-8d13-c455a9c712e7.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/815a91c5-3531-48f7-af24-1138f3029e4f.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/8f7d360b-623d-459b-8600-afc1a41750ae.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/95f07a42-fd75-4635-816b-2462d1089b15.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/9bc2b272-f583-419c-aeb3-38fa542a65f0.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt/ff4b515e-d011-4c73-bfa9-3c6b34697f0f.jpg"
+    ],
+    "city": "Giza",
+    "price": 4000,
+    "stars": 4.82,
+    "review": 155,
+    "host": { "name": "Matthew Wright", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 8,
+    "name": "Entire rental unit in Nazlet El-Semman, Egypt 1",
+
+    "img": [
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/1a1eeea9-8b29-4789-bc34-8a63ed44a8eb.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/43a3969b-34ab-4bd3-9000-dfe78deaab4a.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/4cf0fe8c-1136-4862-b0c4-8fabac16e155.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/516cd41e-769f-4461-972d-dfd2b2cfb0b6.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/64ef5d64-eb87-42d9-85c8-62af83b90e84.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/911e9cec-73e0-4d76-bbb8-e56086f69865.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/a568fc50-8142-4a9f-80cb-e94829aa1804.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/a684281f-dc7c-4c8d-a17e-2bb3f4c04f9e.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 1/fa806b2f-6ddf-437c-880b-3a3fa130a414.avif"
+    ],
+    "city": "Giza",
+    "price": 6100,
+    "stars": 4.99,
+    "review": 260,
+    "host": { "name": "Mia Taylor", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 9,
+    "name": "Entire rental unit in Nazlet El-Semman, Egypt 2",
+
+    "img": [
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/08b242a1-3bab-4b81-8937-cb13d1c14958.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/161da724-ed4e-41ac-a127-5286554dc00d.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/23c00b37-d79e-4ba7-9368-f47cc42e3dac.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/2875694a-aaba-4d7b-ac96-47713c0eda0a.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/7bfad347-dab1-4ef6-9d2a-583c7bbf6fd3.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/9dfc375b-49e6-43d4-a648-d6b8eae6130b.webp",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/9dfc375b-49e6-43d4-a648-d6b8eae6130b.webp",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/ae96676c-0ea9-46b7-bed8-0775dc1cf81a.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/bc04b11b-776a-431c-8621-4317ac485fe8.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/d5ec32ad-6c1b-4b25-b8a7-a644c1e085dd.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/e64829bd-458b-435d-a255-fd5c1aed5646.avif",
+      "Giza/Entire rental unit in Nazlet El-Semman, Egypt 2/f8a3a768-c062-47d5-ad82-b96afd41e7dc.avif"
+    ],
+    "city": "Giza",
+    "price": 2985,
+    "stars": 4.66,
+    "review": 92,
+    "host": { "name": "Lillian Hall", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 10,
+    "name": "Entire serviced apartment in Nazlet El-Semman",
+
+    "img": [
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/0d5b31dc-fbcf-4dba-b1f9-9a36ed528db2.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/1c2b5cd0-5d80-4466-9372-934ea738f00b.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/252c69d9-3fdf-469b-bd3b-50a16c51f389.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/2d5382f5-5856-4c04-abc0-ff815c18bfc0.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/433462d4-b380-4724-954a-b19c21f11070.webp",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/4a6d0f2a-5f05-4288-ba23-e479aed7ebe7.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/4f8981cf-cfef-4e88-9826-7c3dc8d1a531.jpg",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/52e24926-06ed-4008-b3db-4c495913c0b0.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/5c92853c-9799-46c9-84db-86bed5058255.avif",
+      "Giza/Entire serviced apartment in Nazlet El-Semman, Egypt/b47ffe93-c9ae-4e9e-866e-4103fbb13ec0.avif"
+    ],
+    "city": "Giza",
+    "price": 4850,
+    "stars": 4.92,
+    "review": 200,
+    "host": { "name": "Harper Hernandez", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 11,
+    "name": "Entire serviced apartment in Nazlet El-Semman",
+
+    "img": [
+      "Giza/Room in Nazlet El-Semman, Egypt/0d6a5a26-939d-4582-b547-6b98db9cf9fc.avif",
+      "Giza/Room in Nazlet El-Semman, Egypt/481feeae-0868-4575-b231-d6ae1731e0df.webp",
+      "Giza/Room in Nazlet El-Semman, Egypt/7ba44871-f254-4051-b8b7-084f71e65528.avif",
+      "Giza/Room in Nazlet El-Semman, Egypt/80c07438-2cee-44a2-bcd2-8914a92616fb.avif",
+      "Giza/Room in Nazlet El-Semman, Egypt/98443ad4-8a45-4683-bb4e-c9ab6f77c7aa.avif",
+      "Giza/Room in Nazlet El-Semman, Egypt/a0619f9e-0461-4411-b9cd-139cb604dbf4.avif",
+      "Giza/Room in Nazlet El-Semman, Egypt/ce64fb86-9ed4-420f-91f1-9b1ed3908721.avif",
+      "Giza/Room in Nazlet El-Semman, Egypt/f865c589-d32a-45ca-b175-927931866209.avif"
+    ],
+    "city": "Giza",
+    "price": 3650,
+    "stars": 4.7,
+    "review": 108,
+    "host": { "name": "Benjamin Anderson", "profileImage": "", "since": "2023" }
+  },
+  {
+    "id": 12,
+    "name": "Asala Seaview",
+
+    "img": [
+      "Dahab/Asala Seaview/28abf4fb-9ed2-4837-a2ea-3000f66084c4.avif",
+      "Dahab/Asala Seaview/2e91562c-42c4-44ab-8b0e-a1c326faaf5a.avif",
+      "Dahab/Asala Seaview/5cdca061-c75b-4e20-b6f1-00ea88b9f62f.avif",
+      "Dahab/Asala Seaview/ac81cbf7-a39b-4a44-a9ba-86d25a8d323d.avif",
+      "Dahab/Asala Seaview/af9f0f76-3882-4b2b-af71-c09bd7d49cce.webp",
+      "Dahab/Asala Seaview/b8366cd8-eb66-4692-ac80-38710608df6b.avif",
+      "Dahab/Asala Seaview/e1973323-3895-4426-81c7-83cfe6b16c80.avif"
+    ],
+    "city": "Dahab",
+    "price": 5200,
+    "stars": 4.97,
+    "review": 255,
+    "host": { "name": "Harper Hernandez", "profileImage": "", "since": "2023" }
+  },
+  {
+    "id": 13,
+    "name": "Entire home in عسلة,",
+
+    "img": [
+      "Dahab/Entire home in عسلة, Egypt/343ab87d-295c-4aea-a98b-541a0d74e7b6.avif",
+      "Dahab/Entire home in عسلة, Egypt/3497383b-76c1-4407-8f63-410351caca57.avif",
+      "Dahab/Entire home in عسلة, Egypt/3e53f5f7-ced9-410b-8809-71cb8d66dbce.avif",
+      "Dahab/Entire home in عسلة, Egypt/4d064b31-2742-4d93-8ffe-f45b21ad6740.avif",
+      "Dahab/Entire home in عسلة, Egypt/6f81ae78-e5e6-4e4d-84b1-46f38d5083a1.avif",
+      "Dahab/Entire home in عسلة, Egypt/f44c72b0-5332-4e60-a99f-c0aa68836f6b.avif"
+    ],
+    "city": "Dahab",
+    "price": 3350,
+    "stars": 4.75,
+    "review": 110,
+    "host": { "name": "Elijah Lopez", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 14,
+    "name": "Entire rental unit in Dahab",
+
+    "img": [
+      "Dahab/Entire rental unit in Dahab, Egypt/1c697cfb-5766-47a3-b78a-bf1144e46233.avif",
+      "Dahab/Entire rental unit in Dahab, Egypt/2449a3a2-a1a9-45c1-8593-e44598218128.avif",
+      "Dahab/Entire rental unit in Dahab, Egypt/3a7afa62-88b1-4245-8744-8487352e0746.avif",
+      "Dahab/Entire rental unit in Dahab, Egypt/931774b7-c8eb-4fdd-9565-e1f6d7b205cc.avif",
+      "Dahab/Entire rental unit in Dahab, Egypt/bf1eb3dc-223c-4fe7-8f1e-911cd58fc598.avif",
+      "Dahab/Entire rental unit in Dahab, Egypt/edd54516-36d0-4ae1-b4e2-f963c5a00454.avif"
+    ],
+    "city": "Dahab",
+    "price": 4600,
+    "stars": 4.87,
+    "review": 170,
+    "host": { "name": "Mia Taylor", "profileImage": "", "since": "2020" }
+  },
+  {
+    "id": 15,
+    "name": "Entire rental unit in قسم دهب,",
+
+    "img": [
+      "Dahab/Entire rental unit in قسم دهب, Egypt/433703f2-655c-4990-be87-d87aca79b549.avif",
+      "Dahab/Entire rental unit in قسم دهب, Egypt/4cec1b12-9f38-4c0c-badf-769a5f7febea.avif",
+      "Dahab/Entire rental unit in قسم دهب, Egypt/701b5fa2-4a52-4c07-9b0e-7fc0fb14d4d1.avif",
+      "Dahab/Entire rental unit in قسم دهب, Egypt/93003995-5950-4b18-8c72-0935c0cbabfc.avif",
+      "Dahab/Entire rental unit in قسم دهب, Egypt/cfcb90e9-3179-4844-91bf-728c4176a5b9.avif",
+      "Dahab/Entire rental unit in قسم دهب, Egypt/da4d1467-1982-4e30-8753-04270e85860b.avif"
+    ],
+    "city": "Dahab",
+    "price": 2750,
+    "stars": 4.64,
+    "review": 78,
+    "host": { "name": "Sophia Miller", "profileImage": "", "since": "2023" }
+  },
+  {
+    "id": 16,
+    "name": "Dahab/Entire serviced apartment in Egypt",
+
+    "img": [
+      "Dahab/Entire serviced apartment in Egypt/298045f5-41f7-4fe6-863b-f72bd1f65823.avif",
+      "Dahab/Entire serviced apartment in Egypt/62ac14ea-bc24-4b8b-bf16-74347c9e6f69.avif",
+      "Dahab/Entire serviced apartment in Egypt/a1148252-7927-4706-91c1-17db80cfacde.avif",
+      "Dahab/Entire serviced apartment in Egypt/ac87a28f-e52d-462d-8250-55660b347311.avif",
+      "Dahab/Entire serviced apartment in Egypt/d7738751-30ba-4a86-bc0f-66a92f7d3e09.avif",
+      "Dahab/Entire serviced apartment in Egypt/e174eac1-8058-4e10-9a1a-142a2be5751d.avif",
+      "Dahab/Entire serviced apartment in Egypt/f091f274-6484-4241-a05d-29466f7642de.avif",
+      "Dahab/Entire serviced apartment in Egypt/fc7b1a59-0b55-4316-bab2-2603350d3b95.avif"
+    ],
+    "city": "Dahab",
+    "price": 4950,
+    "stars": 4.89,
+    "review": 190,
+    "host": { "name": "Daniel Clark", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 17,
+    "name": "Sea view Flat in Lighthouse",
+
+    "img": [
+      "Dahab/Sea view Flat in Lighthouse/2529427b-555b-403b-92c8-543061537093.avif",
+      "Dahab/Sea view Flat in Lighthouse/299bf587-386a-49e9-bdd6-4013eac7923f.avif",
+      "Dahab/Sea view Flat in Lighthouse/6e1a0435-95c0-4a98-883a-41f0132a721e.avif",
+      "Dahab/Sea view Flat in Lighthouse/809044e3-6c8c-4c43-8222-e1bc29056a53.avif",
+      "Dahab/Sea view Flat in Lighthouse/82e3937c-3073-40e4-bc47-0c5f9c6cdbc6.avif",
+      "Dahab/Sea view Flat in Lighthouse/beee9a89-a3e5-4815-a4e1-eb5f28fc423e.avif"
+    ],
+    "city": "Dahab",
+    "price": 3750,
+    "stars": 4.81,
+    "review": 140,
+    "host": { "name": "Liam Williams", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 18,
+    "name": "Aswan/Entire rental unit in Aswan",
+
+    "img": [
+      "Aswan/Entire rental unit in Aswan, Egypt/22a6078f-8610-4ae7-91fe-3f273a560874.avif",
+      "Aswan/Entire rental unit in Aswan, Egypt/394d8030-8e5b-4b22-8b00-8b9ebc3e02ac.webp",
+      "Aswan/Entire rental unit in Aswan, Egypt/4163b269-43ff-41ca-8abf-9121a685a3d4.avif",
+      "Aswan/Entire rental unit in Aswan, Egypt/e8ec40ce-f1a1-4863-881b-60db06f5d7b3.avif",
+      "Aswan/Entire rental unit in Aswan, Egypt/ef0d5955-66e6-41f1-9a04-e6cfb83de118.avif"
+    ],
+    "city": "Aswan",
+    "price": 5700,
+    "stars": 4.98,
+    "review": 220,
+    "host": {
+      "name": "Charlotte Gonzalez",
+      "profileImage": "",
+      "since": "2020"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Modern And Cozy Ambiance Rooms",
+
+    "img": [
+      "Aswan/Modern And Cozy Ambiance Rooms/00ceb9b4-e174-4bc4-9d88-9f3a8aef0c45.avif",
+      "Aswan/Modern And Cozy Ambiance Rooms/224267e3-c0d7-40b2-9bf3-1dcb2c68fdb4.avif",
+      "Aswan/Modern And Cozy Ambiance Rooms/35fb3113-5b21-439b-8178-166095d923a9.avif",
+      "Aswan/Modern And Cozy Ambiance Rooms/bed3b433-ab66-4e7a-8c8d-791d5d4b351b.avif",
+      "Aswan/Modern And Cozy Ambiance Rooms/e9f395c3-965a-4aa7-90ec-a4bfe2db0124.avif"
+    ],
+    "city": "Aswan",
+    "price": 2875,
+    "stars": 4.67,
+    "review": 85,
+    "host": { "name": "Sebastian Martin", "profileImage": "", "since": "2020" }
+  },
+  {
+    "id": 20,
+    "name": "Private room in guesthouse in Sheyakhah Oula",
+
+    "img": [
+      "Aswan/Private room in guesthouse in Sheyakhah Oula, Egypt/340d226e-f7d5-4cdf-8bd3-e517dfdda7a7.avif",
+      "Aswan/Private room in guesthouse in Sheyakhah Oula, Egypt/82fe8fcd-34ac-40b5-9f50-0b81231667af.avif",
+      "Aswan/Private room in guesthouse in Sheyakhah Oula, Egypt/98916894-c1b6-4871-9067-3e9d4422b313.avif",
+      "Aswan/Private room in guesthouse in Sheyakhah Oula, Egypt/b5499da3-fe34-4bf8-9231-80f78190240c.avif",
+      "Aswan/Private room in guesthouse in Sheyakhah Oula, Egypt/bd71abab-a004-4588-9b4e-f5e9cb8e9a44.avif"
+    ],
+    "city": "Aswan",
+    "price": 3980,
+    "stars": 4.83,
+    "review": 150,
+    "host": { "name": "Jack White", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 21,
+    "name": "Room in Aswan",
+
+    "img": [
+      "Aswan/Room in Aswan, Egypt/09664674-e004-4ab5-8a8f-8d4b62b11e62.avif",
+      "Aswan/Room in Aswan, Egypt/2e2b249e-bd5b-400f-85c8-233410be6ab2.avif",
+      "Aswan/Room in Aswan, Egypt/75342011-c4e3-4dea-87bd-6451c154650f.avif",
+      "Aswan/Room in Aswan, Egypt/b82fe6aa-516e-433e-aa53-08097a78bb61.avif",
+      "Aswan/Room in Aswan, Egypt/d051be5c-82dc-4d3d-8922-d67baecad4a1.avif"
+    ],
+    "city": "Aswan",
+    "price": 5250,
+    "stars": 4.96,
+    "review": 239,
+    "host": { "name": "Isabella Davis", "profileImage": "", "since": "2020" }
+  },
+  {
+    "id": 22,
+    "name": "Aswan/Room in hotel in Aswan 1",
+
+    "img": [
+      "Aswan/Room in hotel in Aswan 1, Egypt/158ef918-a221-4b8e-b59b-2f0dec92dc52.avif",
+      "Aswan/Room in hotel in Aswan 1, Egypt/4a86d6c1-3869-4932-9d02-8c0db2354f08.avif",
+      "Aswan/Room in hotel in Aswan 1, Egypt/563f8646-92af-4430-94e8-6382e4170b29.avif",
+      "Aswan/Room in hotel in Aswan 1, Egypt/8a147760-6318-4a5d-8e32-2ac963343adf.avif",
+      "Aswan/Room in hotel in Aswan 1, Egypt/fa4c8c5e-f58c-435b-ba35-0433778433ca.avif"
+    ],
+    "city": "Aswan",
+    "price": 3825,
+    "stars": 4.77,
+    "review": 123,
+    "host": { "name": "Evelyn Jackson", "profileImage": "", "since": "2023" }
+  },
+  {
+    "id": 23,
+    "name": "Aswan/Room in Sheyakhah Oula",
+
+    "img": [
+      "Aswan/Room in Sheyakhah Oula, Egypt/1d9ab5b5-2362-41db-82f1-a1a81448b307.avif",
+      "Aswan/Room in Sheyakhah Oula, Egypt/314f5c7e-945f-472c-aa84-158207c947dd.avif",
+      "Aswan/Room in Sheyakhah Oula, Egypt/446b12ff-3358-4c66-9c74-949b03f2f01a.avif",
+      "Aswan/Room in Sheyakhah Oula, Egypt/8eb18c48-ca14-4353-a50a-d5ef830f7be9.avif",
+      "Aswan/Room in Sheyakhah Oula, Egypt/92bd5158-af9f-4bec-ae50-3a9dfb823483.avif"
+    ],
+    "city": "Aswan",
+    "price": 4500,
+    "stars": 4.84,
+    "review": 181,
+    "host": { "name": "Mia Taylor", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 24,
+    "name": "Cairo/Entire rental unit in Al Inshaa WA Al Munirah",
+
+    "img": [
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/122a1f62-3e4f-4ec3-be26-c178f78f2715.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/1408b089-9cd7-42ea-a79c-65958f150729.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/3e6e32d9-32f0-44bd-ba20-af3e5c3537c7.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/48d4ed48-f269-4b7f-9b7f-760947878213.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/4c05f2f1-e54c-48d9-b6ac-bbce5c4f7151.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/618d6e20-60df-4aba-87b4-c2628bfa49c9.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/63bd2929-d875-4078-a10f-d81dc8bc7954.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/663aa710-eb3f-401c-8117-27c19dae6a72.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/b2fc5368-4003-4126-81c8-44ed7a46ea68.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/c3992c7a-bf86-450d-b1cb-815d08ce9a13.avif",
+      "Cairo2/Entire rental unit in Al Inshaa WA Al Munirah, Egypt/ececff20-8955-4254-9545-7c1d7074fcc3.avif"
+    ],
+    "city": "Cairo",
+    "price": 3210,
+    "stars": 4.73,
+    "review": 106,
+    "host": { "name": "Daniel Clark", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 25,
+    "name": "Cairo/Entire rental unit in Al Matar",
+
+    "img": [
+      "Cairo2/Entire rental unit in Al Matar, Egypt/66187313-428e-4cf1-a6a3-a5ff178148ea.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/68561c1c-6ab0-4c6c-a6d3-99e78d55a29d.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/6931d12d-808b-41b2-9caa-71d669080c37.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/6c706e3f-39cd-40f2-82b5-80fcc9879e92.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/96c912b9-8e4e-44cd-8843-9591191b4baa.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/9f3ae750-2b7c-4bc6-a01d-c44c48d9d245.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/bad3574a-03c9-4232-817a-135ea3cadedb.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/bd0a63e2-477c-46b8-b5af-6a2b66433f94.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/ca0b3c68-63a9-4384-a4a4-28435403b49b.avif",
+      "Cairo2/Entire rental unit in Al Matar, Egypt/d0f7ddbe-58a3-4f04-90fa-b4486f1630b3.avif"
+    ],
+    "city": "Cairo",
+    "price": 4900,
+    "stars": 4.9,
+    "review": 202,
+    "host": { "name": "Victoria Lewis", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 26,
+    "name": "Cairo/Entire rental unit in El-Montaza",
+
+    "img": [
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/001d7f6b-204f-4ed0-b4e9-e3f74bfff0b0.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/0db53403-9508-43ba-83c6-e804719ff4cf.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/3aa8c1f2-0b8e-4976-ab38-1ebc07b0955f.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/489bde46-b858-4bd0-9a30-83b5cc736e7c.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/824e5cf2-5536-4072-b0c7-723a03f73145.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/87f2cf3f-ff17-4914-9b0b-0b839336244b.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/89c0b297-8e46-4932-a609-afbfef5bc8b3.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/bc98f05b-cb94-4064-9003-82f7f0c8c870.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/eff5a1c7-87bd-4bc2-bdc3-9aa4811ca677.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/f956c5d3-786c-4ad9-a131-c9e8487476b9.avif"
+    ],
+    "city": "Cairo",
+    "price": 2650,
+    "stars": 4.6,
+    "review": 69,
+    "host": { "name": "James Smith", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 27,
+    "name": "Cairo/Entire rental unit in Downtown Cairo",
+
+    "img": [
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/1abd82a1-87d5-436a-b5fd-effdbd012357.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/2a43936d-3d98-45ec-9e8a-a41d1c35828e.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/30f3637d-4ecf-442f-a790-7624ad3755eb.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/358aca01-d400-435d-a828-275770b8bdde.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/7d5e56fa-7e62-4be0-840c-5a19dcd7fb16.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/811ff2d1-7023-42ba-8f4c-18c8714160e6.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/93fcdac3-76e9-4d15-8fd2-1050c7f98f22.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/945ed67b-7b41-498d-af36-ff0d149b357e.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/a4efcc5f-a470-4c6f-9a45-3c60869ea568.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/df87b934-6778-4e1d-8550-ea6a646560c7.avif",
+      "Cairo2/Entire rental unit in Downtown Cairo, Egypt/e3830c1e-5337-44be-a472-a23e986a5ff8.avif"
+    ],
+    "city": "Cairo",
+    "price": 6000,
+    "stars": 4.99,
+    "review": 275,
+    "host": { "name": "Olivia Johnson", "profileImage": "", "since": "2020" }
+  },
+  {
+    "id": 28,
+    "name": "Cairo/Entire rental unit in Downtown Cairo",
+
+    "img": [
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/001d7f6b-204f-4ed0-b4e9-e3f74bfff0b0.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/0db53403-9508-43ba-83c6-e804719ff4cf.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/3aa8c1f2-0b8e-4976-ab38-1ebc07b0955f.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/489bde46-b858-4bd0-9a30-83b5cc736e7c.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/824e5cf2-5536-4072-b0c7-723a03f73145.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/87f2cf3f-ff17-4914-9b0b-0b839336244b.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/89c0b297-8e46-4932-a609-afbfef5bc8b3.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/bc98f05b-cb94-4064-9003-82f7f0c8c870.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/eff5a1c7-87bd-4bc2-bdc3-9aa4811ca677.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/f956c5d3-786c-4ad9-a131-c9e8487476b9.avif"
+    ],
+    "city": "Cairo",
+    "price": 3500,
+    "stars": 4.79,
+    "review": 115,
+    "host": { "name": "David Allen", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 29,
+    "name": "Cairo/Entire rental unit in El-Montaza Cairo",
+
+    "img": [
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/001d7f6b-204f-4ed0-b4e9-e3f74bfff0b0.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/0db53403-9508-43ba-83c6-e804719ff4cf.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/3aa8c1f2-0b8e-4976-ab38-1ebc07b0955f.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/489bde46-b858-4bd0-9a30-83b5cc736e7c.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/824e5cf2-5536-4072-b0c7-723a03f73145.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/87f2cf3f-ff17-4914-9b0b-0b839336244b.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/89c0b297-8e46-4932-a609-afbfef5bc8b3.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/bc98f05b-cb94-4064-9003-82f7f0c8c870.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/eff5a1c7-87bd-4bc2-bdc3-9aa4811ca677.avif",
+      "Cairo2/Entire rental unit in El-Montaza, Egypt/f956c5d3-786c-4ad9-a131-c9e8487476b9.avif"
+    ],
+    "city": "Cairo",
+    "price": 4780,
+    "stars": 4.88,
+    "review": 177,
+    "host": { "name": "Mason Rodriguez", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 30,
+    "name": "Cairo/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah",
+
+    "img": [
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/127bb2f3-f710-47b3-bc7b-91f97d410ef8.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/2bb0613b-dbdd-4f06-abaf-be70a8adfd1a.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/435f19b2-93c5-419b-959c-9704744c44c6.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/52272d7e-1698-4a4a-8fc6-16ecdf2e1005.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/70d43130-2cba-495f-aed1-91ffcd0dde55.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/87240cb1-a1f8-49fb-9e5c-afb95adf7a97.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/8d17fb0e-a479-4cf6-92c4-3eb45827aa03.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/90578b3a-3fee-4b67-901f-dce5a6aca9f5.avif",
+      "Cairo2/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah, Egypt/bb8daa22-72a4-4129-adf4-3bbb53ee3bde.avif"
+    ],
+    "city": "Cairo",
+    "price": 5150,
+    "stars": 4.95,
+    "review": 225,
+    "host": { "name": "Elijah Lopez", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 31,
+    "name": "Cairo/Entire rental unit in Maadi Al Khabiri Ash Sharqeyah",
+
+    "img": [
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/1bcb4f81-7953-4849-8fae-760cae646772.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/223ce0e9-07e4-4875-8d98-6e432a9a4721.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/49661580-06df-408b-8fd3-18c03f0e6bb1.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/4b268150-6e3d-47df-8cd3-9bae8c665627.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/4bcdb984-a550-431a-8c2e-1791778e99d5.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/6e9c5981-3123-477a-a10d-c1bfdc5cd7da.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/728386d9-a111-43a5-a1eb-04de2f893123.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/b1d7d7bc-277b-46d7-ae06-301bb9fd821e.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/e5dcbe66-61ea-41d8-b77a-57fff8f0f427.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/edf1e430-209e-45bb-9cd3-b79254483511.avif"
+    ],
+    "city": "Cairo",
+    "price": 2950,
+    "stars": 4.69,
+    "review": 93,
+    "host": { "name": "David Allen", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 32,
+    "name": "Cairo/Entire rental unit in Maadi as Sarayat Al Gharbeyah",
+
+    "img": [
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/1bcb4f81-7953-4849-8fae-760cae646772.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/223ce0e9-07e4-4875-8d98-6e432a9a4721.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/49661580-06df-408b-8fd3-18c03f0e6bb1.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/4b268150-6e3d-47df-8cd3-9bae8c665627.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/4bcdb984-a550-431a-8c2e-1791778e99d5.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/6e9c5981-3123-477a-a10d-c1bfdc5cd7da.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/728386d9-a111-43a5-a1eb-04de2f893123.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/b1d7d7bc-277b-46d7-ae06-301bb9fd821e.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/e5dcbe66-61ea-41d8-b77a-57fff8f0f427.avif",
+      "Cairo2/Entire rental unit in Maadi as Sarayat Al Gharbeyah, Egypt/edf1e430-209e-45bb-9cd3-b79254483511.avif"
+    ],
+    "city": "Cairo",
+    "price": 4300,
+    "stars": 4.86,
+    "review": 189,
+    "host": { "name": "John Adams", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 33,
+    "name": "Cairo/Entire rental unit in Madinet Al Eelam",
+
+    "img": [
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/0293bb1c-9ca2-4f50-99fa-3cd85280e780.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/09fbbf97-8b68-439d-ad4a-c22b84c005af.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/5e798512-efab-41fb-83cb-3c55b578b7d2.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/836bb498-59f6-4a96-aeb6-acb69cf8f935.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/9d79709f-9b01-4d59-b12c-d58a77bacd9a.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/b85a1545-fee6-4f6b-90b2-d955abfea936.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/b9d99789-8ff2-45f9-a7e2-9d08aecf00c6.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/bb940cc1-40cd-4bbb-a426-508dfbd2cdb3.avif",
+      "Cairo2/Entire rental unit in Madinet Al Eelam, Egypt/e0710408-bd27-4f5a-ab22-e5a9f61708b8.avif"
+    ],
+    "city": "Cairo",
+    "price": 3120,
+    "stars": 4.74,
+    "review": 102,
+    "host": { "name": "Evelyn Jackson", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 34,
+    "name": "Entire condo in Al Agamy Al Bahri, Egypt",
+
+    "img": [
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/1c377c0a-7925-41a3-935d-78e18b9b0db2.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/29805541-3f4f-4fe4-94f8-ba9f25ab5333.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/41426beb-94e2-4d1c-9fa5-35f5ba117384.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/5c92a38a-ae95-4d50-9191-45baecc3c10d.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/6efa6cd3-d9a8-4d7e-b4f9-7b01f1857940.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/7e1c39ec-e9a4-480e-a487-a7c7492f95cd.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/7fae3830-48ce-4da6-8883-9d910a734468.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/b0d69bcd-f286-4b82-b1cc-031b98ece208.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/b77f29dc-42bd-4cbe-a1a3-a551953bccf1.avif",
+      "Alex/Entire condo in Al Agamy Al Bahri, Egypt/eefb775b-b0f1-49a0-8150-248a4dd8002d.avif"
+    ],
+    "city": "Alex",
+    "price": 5800,
+    "stars": 4.98,
+    "review": 232,
+    "host": { "name": "Benjamin Anderson", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 35,
+    "name": "Entire condo in Fleming, Egypt",
+
+    "img": [
+      "Alex/Entire condo in Fleming, Egypt/0ccaff26-eb15-49a0-b2eb-5d02a0d39ef1.avif",
+      "Alex/Entire condo in Fleming, Egypt/10579530-7c69-4d8f-8791-77ebf0223a9e.avif",
+      "Alex/Entire condo in Fleming, Egypt/2810fdee-a618-4f39-874c-212f368a7d3c.webp",
+      "Alex/Entire condo in Fleming, Egypt/445541c9-a7de-41d2-a5ef-d16a291cbb35.avif",
+      "Alex/Entire condo in Fleming, Egypt/6fa7e107-b1b3-4050-84c0-87382a5892e0.avif",
+      "Alex/Entire condo in Fleming, Egypt/a94e1700-3d40-47bf-9ee9-973ddab3db48.webp",
+      "Alex/Entire condo in Fleming, Egypt/bc5fffeb-e00b-4895-9aca-3e71c6413e72.avif",
+      "Alex/Entire condo in Fleming, Egypt/bcd473a9-19b4-4eb0-8bd7-49b3721a2634.avif",
+      "Alex/Entire condo in Fleming, Egypt/cf591e2c-905c-4eb2-a42b-94cd8c96d4b0.avif",
+      "Alex/Entire condo in Fleming, Egypt/d0ec50f5-1f18-419b-8411-41ef80adec91.avif",
+      "Alex/Entire condo in Fleming, Egypt/ee4363e3-b65e-4de2-a325-7d8f588e06a2.avif"
+    ],
+    "city": "Alex",
+    "price": 2890,
+    "stars": 4.72,
+    "review": 88,
+    "host": { "name": "Noah Jones", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 36,
+    "name": "Entire condo in Fleming, Egypt",
+
+    "img": [
+      "Alex/Entire condo in Fleming, Egypt/0ccaff26-eb15-49a0-b2eb-5d02a0d39ef1.avif",
+      "Alex/Entire condo in Fleming, Egypt/10579530-7c69-4d8f-8791-77ebf0223a9e.avif",
+      "Alex/Entire condo in Fleming, Egypt/2810fdee-a618-4f39-874c-212f368a7d3c.webp",
+      "Alex/Entire condo in Fleming, Egypt/445541c9-a7de-41d2-a5ef-d16a291cbb35.avif",
+      "Alex/Entire condo in Fleming, Egypt/6fa7e107-b1b3-4050-84c0-87382a5892e0.avif",
+      "Alex/Entire condo in Fleming, Egypt/a94e1700-3d40-47bf-9ee9-973ddab3db48.webp",
+      "Alex/Entire condo in Fleming, Egypt/bc5fffeb-e00b-4895-9aca-3e71c6413e72.avif",
+      "Alex/Entire condo in Fleming, Egypt/bcd473a9-19b4-4eb0-8bd7-49b3721a2634.avif",
+      "Alex/Entire condo in Fleming, Egypt/cf591e2c-905c-4eb2-a42b-94cd8c96d4b0.avif",
+      "Alex/Entire condo in Fleming, Egypt/d0ec50f5-1f18-419b-8411-41ef80adec91.avif",
+      "Alex/Entire condo in Fleming, Egypt/ee4363e3-b65e-4de2-a325-7d8f588e06a2.avif"
+    ],
+    "city": "Alex",
+    "price": 4875,
+    "stars": 4.91,
+    "review": 198,
+    "host": { "name": "Karim Magdy", "profileImage": "", "since": "2020" }
+  },
+  {
+    "id": 37,
+    "name": "Entire rental unit in Al Mazar, Egypt",
+
+    "img": [
+      "Alex/Entire rental unit in Al Mazar, Egypt/14c9fcf7-f62f-4381-a680-261a9289bcec.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/2a3e0986-f548-4316-9305-477aa7239a58.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/370cddd5-3a92-4885-8565-87eda5db2eb2.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/3ee82dd4-3569-47b5-8f7b-45ba8ef4cf9c.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/5a028404-c2cb-45fd-bd0f-daefb6678310.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/8ffa2a41-c889-4ebe-8d55-804a683281b7.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/e68ba1b4-1412-4df8-99a1-5a8f73badc67.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/ea92873d-7850-4361-9b90-6a9f238e9dfc.avif",
+      "Alex/Entire rental unit in Al Mazar, Egypt/fcab1b33-dfed-45d9-b7b4-79fcb10fe513.avif"
+    ],
+    "city": "Alex",
+    "price": 3650,
+    "stars": 4.78,
+    "review": 109,
+    "host": { "name": "Marwan Ayman", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 38,
+    "name": "Entire rental unit in Alexandria, Egypt",
+
+    "img": [
+      "Alex/Entire rental unit in Alexandria, Egypt/195ae639-05aa-4775-b4f5-fc94ad765572.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/294ddaf4-a0ff-4fa9-8efb-a5e35a5780f2.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/3779e1a8-9496-4724-aa37-910e5e175e7c.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/504db4ee-2f7c-41a4-b04d-d47653d8161b.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/5a3c2ec8-cb4e-46ee-a921-8d6ef1f66cef.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/7b8637a1-4b1a-4a66-a68b-c0c8934f3c92.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/8302afe4-39e9-4b99-a973-61837d64a010.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/8b900fc1-b79a-4aa0-9371-d678ad285e1b.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/901d3460-4e97-46b9-be43-55e40c8003d3.avif",
+      "Alex/Entire rental unit in Alexandria, Egypt/eb32edaa-e3b9-4196-9712-7033191d062b.avif"
+    ],
+    "city": "Alex",
+    "price": 4100,
+    "stars": 4.85,
+    "review": 176,
+    "host": { "name": "Ibrahim Sherif", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 39,
+    "name": "Entire rental unit in Fleming, Egypt",
+
+    "img": [
+      "Alex/Entire rental unit in Fleming, Egypt/1723e239-bacb-432c-8047-10a5ce6c6024.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/2dd99238-1af8-48a7-a085-c0d66397c58f.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/3997835e-747f-43cf-b750-006ef8c5d355.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/4b0f5a3c-ad47-4cd6-bb81-6cc8a41a8016.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/553bc7be-153e-4b25-a91a-9f84a7914fa5.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/85ba365c-aa47-4912-9896-fe4c8ce8c29e.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/92170008-518d-43c5-8bbe-22f5cde4f671.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/b13051b7-2f33-4d94-8fdd-5ad42e1c7a90.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/b687554b-e978-4f61-9d65-d8bf359bebba.avif",
+      "Alex/Entire rental unit in Fleming, Egypt/c0d6dfad-25ef-4aaf-a633-a84867c9d0cf.avif"
+    ],
+    "city": "Alex",
+    "price": 5200,
+    "stars": 4.97,
+    "review": 267,
+    "host": { "name": "Tarek Mahmoud", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 40,
+    "name": "Entire rental unit in Kom Ad Dakah Gharb, Egypt",
+
+    "img": [
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/3020ad7d-e162-428d-8af6-020be37ca263.jpg",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/3410c5da-c7fe-4c78-a61c-b44e9711dffd.avif",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/bf9905d3-2f9f-479f-a6b3-7c77f4dfc1c3.avif",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/ceefee36-7265-479a-99fa-4dfdcd9fa97c.avif",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/ceefee36-7265-479a-99fa-4dfdcd9fa97c.jpg",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/d43406a9-a23c-474d-a42f-5bad9dd21503.jpg",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/d8d304ab-0c4e-40dc-852b-c17d65c95b88.jpg",
+      "Alex/Entire rental unit in Kom Ad Dakah Gharb, Egypt/dbedab51-4fcd-4b35-be89-50bf6f9815b6.avif"
+    ],
+    "city": "Alex",
+    "price": 3400,
+    "stars": 4.8,
+    "review": 112,
+    "host": { "name": "Amr Alaa", "profileImage": "", "since": "2023" }
+  },
+  {
+    "id": 41,
+    "name": "Entire rental unit in San Stefano,",
+
+    "img": [
+      "Alex/Entire rental unit in San Stefano,/2dd80b4c-b517-4c20-ab69-bdb4c5f0c5ce.avif",
+      "Alex/Entire rental unit in San Stefano,/48929dd8-5828-4d3a-9042-360d389a6f83.avif",
+      "Alex/Entire rental unit in San Stefano,/5d8a9ac2-434a-4960-8c15-dea7cdf7afbf.avif",
+      "Alex/Entire rental unit in San Stefano,/87af1856-2a42-4a39-83fd-84b724254076.avif",
+      "Alex/Entire rental unit in San Stefano,/888347e5-b2ac-416c-9f3c-734170d679b2.avif",
+      "Alex/Entire rental unit in San Stefano,/91630fc6-1373-4173-ad2d-cdf87819af59.avif",
+      "Alex/Entire rental unit in San Stefano,/e4afd728-7668-4e5c-a17c-37abcdc3cdfe.avif",
+      "Alex/Entire rental unit in San Stefano,/f0daf696-f65f-4e53-8138-d5d5bede41f6.avif",
+      "Alex/Entire rental unit in San Stefano,/fcacb122-d2d4-423e-824e-ba1bc02cda75.avif"
+    ],
+    "city": "Alex",
+    "price": 4950,
+    "stars": 4.92,
+    "review": 204,
+    "host": { "name": "Ali AbdelFattah", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 42,
+    "name": "Entire rental unit in San Stefano,",
+
+    "img": [
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/093fb5f7-1367-4839-90a1-130305bc00fe.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/1b6ac4ac-4d08-4967-9750-d6c0cf528343.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/5464cb7a-91b5-4823-9c82-85950b5ef111.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/59edfd58-c2a7-411a-9bf3-d726fd54ea88.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/616def21-fad8-4d02-89e3-8eb1fca910cf.jpg",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/a04a8c57-9a88-42ba-8eee-6f7b361180c6.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/c44ba2d2-2742-413f-a98f-e9f4ea65466d.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/da3ac5c8-e7b8-4570-9009-b0fbfee93aa0.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/f1f9edc3-e341-414d-be13-aec2a835b083.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/fb69216b-0a33-4f6e-bc0e-85ee0fd8f0f3.avif"
+    ],
+    "city": "Alex",
+    "price": 2730,
+    "stars": 4.65,
+    "review": 75,
+    "host": { "name": "Nour Eldin Omar", "profileImage": "", "since": "2025" }
+  },
+  {
+    "id": 43,
+    "name": "Entire rental unit in Sidi Beshr Bahri,",
+
+    "img": [
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/093fb5f7-1367-4839-90a1-130305bc00fe.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/1b6ac4ac-4d08-4967-9750-d6c0cf528343.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/5464cb7a-91b5-4823-9c82-85950b5ef111.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/59edfd58-c2a7-411a-9bf3-d726fd54ea88.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/616def21-fad8-4d02-89e3-8eb1fca910cf.jpg",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/a04a8c57-9a88-42ba-8eee-6f7b361180c6.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/c44ba2d2-2742-413f-a98f-e9f4ea65466d.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/da3ac5c8-e7b8-4570-9009-b0fbfee93aa0.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/f1f9edc3-e341-414d-be13-aec2a835b083.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri,/fb69216b-0a33-4f6e-bc0e-85ee0fd8f0f3.avif"
+    ],
+    "city": "Alex",
+    "price": 6100,
+    "stars": 4.99,
+    "review": 248,
+    "host": { "name": "Ali AbdelFattah", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 44,
+    "name": "Entire rental unit in Sidi Beshr Bahri, Egypt,",
+
+    "img": [
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/32bc94d7-c77a-4aae-9f72-3713956d007f.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/3baf8359-dac1-41de-9340-9b4f329e17fc.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/3ddccf74-68d6-4e53-997b-09292336a51b.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/47bc7861-2bf6-4ac7-b962-e8bc7c8668be.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/4a35d786-1fba-4e1e-b16b-896a5b96e545.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/4b428f9e-6183-42a3-8f12-86a2424b3626.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/4c668456-a8bf-4e71-a84e-4b0627ecf0f6.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/72567ca7-817c-456a-ab3d-74a06cdca888.avif",
+      "Alex/Entire rental unit in Sidi Beshr Bahri, Egypt/d60d342e-bb27-4abf-80ab-598501dcaa96.avif"
+    ],
+    "city": "Alex",
+    "price": 3799,
+    "stars": 4.95,
+    "review": 132,
+    "host": {
+      "name": "Seif El Islam Hassan",
+      "profileImage": "",
+      "since": "2024"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Room in Al Mesallah Sharq, Egypt,",
+
+    "img": [
+      "Alex/Room in Al Mesallah Sharq, Egypt/0ee4518e-72be-4246-aa9f-01c7d9d3108e.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/212ffc91-dd4f-4b71-9181-3efa3c3335ea.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/6a5de166-44ed-4e87-b0ec-ccac27c7f895.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/7a23927b-158d-47e7-a6d7-018ece078d0e.jpg",
+      "Alex/Room in Al Mesallah Sharq, Egypt/a5e80da1-70a6-4420-bd4b-47dbc330d20b.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/a6b25450-ad9a-4ec4-b4e0-90106522b46f.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/a6f6089b-80fa-4378-9cc0-aa3d9b2d5e45.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/bcdcbfdc-3cc3-4841-8c5c-b6161e496137.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/e0dc1a8e-1d8c-4685-8738-e6b532fb3601.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/e4077187-96b7-4a19-9653-0a7568a391ca.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/eb6cba8a-2111-4dbd-88fb-078ccd84e15a.avif",
+      "Alex/Room in Al Mesallah Sharq, Egypt/f06fd2fb-e05e-4e62-b8fe-56291937a512.avif"
+    ],
+    "city": "Alex",
+    "price": 4500,
+    "stars": 4.89,
+    "review": 185,
+    "host": { "name": "David Allen", "profileImage": "", "since": "2024" }
+  },
+  {
+    "id": 46,
+    "name": "Entire rental unit in Marouf",
+
+    "img": [
+      "Cairo2/Entire rental unit in Marouf, Egypt/0207dbe8-f498-4f06-a23a-afec22160451.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/0a1038cd-6536-4b40-8857-274563538360.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/1c4bfd63-37ba-4719-8b46-5dad4e2d63db.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/7cdfb462-1997-4ba5-9550-eb8976fc6f95.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/90c4b630-a20b-4620-9fa8-78b1b141596f.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/9618dd89-dea5-4179-aa41-19c4ec980645.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/994cfcd0-68be-4dfb-a261-035275b74486.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/b61a874d-9471-4794-815f-72c2a499b55b.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/d5fde9eb-15e8-419e-836b-ad36c8377b47.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/e9bbabe6-3465-429a-80a1-0c662ecf9dca.avif",
+      "Cairo2/Entire rental unit in Marouf, Egypt/f67bd208-0c05-4351-887c-6ec4a8cd693f.avif"
+    ],
+    "city": "Cairo",
+    "price": 2980,
+    "stars": 4.76,
+    "review": 98,
+    "host": { "name": "Evelyn Jackson", "profileImage": "", "since": "2021" }
+  },
+  {
+    "id": 47,
+    "name": "Entire rental unit in Mohammed Mazhar, Egypt",
+
+    "img": [
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/161f55a5-3fdf-49a1-b6c4-04ce9462ece7.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/21453a2c-1c68-45d0-80b5-4b198c47e612.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/33eb9109-b1ba-4e1d-8116-bdf3ac5afac9.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/43941d73-81ed-4007-9dad-962fd6a2154a.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/5296b2b9-b13b-409d-a424-67f6de992e67.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/56a6862a-c3eb-41cd-84bd-abcad3c8d5c3.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/78dd5d01-6f10-4c12-8f96-1740fec76e8e.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/8550ef95-0680-4852-a959-5ce177122283.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/c8a6f92f-ea42-4eb4-809f-9a44710750c8.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/cce721d8-b384-4a63-8312-6930807b84a5.avif",
+      "Cairo2/Entire rental unit in Mohammed Mazhar, Egypt/efd9f4a5-1561-4114-9eec-193eb70eb059.avif"
+    ],
+    "city": "Cairo",
+    "price": 5120,
+    "stars": 4.93,
+    "review": 210,
+    "host": { "name": "Benjamin Anderson", "profileImage": "", "since": "2022" }
+  },
+  {
+    "id": 48,
+    "name": "Entire serviced apartment in Ismailia, Egypt",
+
+    "img": [
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/1c3c554b-4221-43a3-8f0d-cb05790d8ecd.avif",
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/324ef036-c2fd-4139-844e-ce622d9127ae.avif",
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/3ebd1ea0-7dc4-4191-a771-ed582aa5c2e6.avif",
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/48d8f370-6556-4b7d-a6fd-bba1552f2b9b.avif",
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/5af7d6d7-bb25-4597-960e-15ec9ac61c5a.avif",
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/6138da0d-d379-45bb-b3cd-c3b304ed3894.avif",
+      "Cairo2/Entire serviced apartment in Ismailia, Egypt/8c59d5d3-f76f-4752-90d4-6ede8730ccbc.avif"
+    ],
+    "city": "Cairo",
+    "price": 3850,
+    "stars": 4.87,
+    "review": 152,
+    "host": { "name": "Noah Jones", "profileImage": "", "since": "2022" }
+  }
+]
